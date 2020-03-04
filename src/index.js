@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import App from 'vue'
+import App from './app.vue'
 import './assets/style/test.css'
 import './assets/style/test-stylus.styl'
 import './assets/images/california-road-highway.jpg'

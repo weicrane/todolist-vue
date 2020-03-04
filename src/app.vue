@@ -6,7 +6,7 @@
 export default {
     data(){
         return{
-            test:'abd'
+            testmessage:'abdefg'
         }
     }
 };
@@ -15,6 +15,5 @@ export default {
 <style scoped>
 #test{
     color:red;
-
 }
 </style>
